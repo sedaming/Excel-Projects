@@ -79,7 +79,7 @@ Excel-Projects/
 Aspiring Business & Data Analyst | Excel · SQL · Power BI · Python
 📍 St. John's / Toronto, Canada
 🔗 [GitHub](https://github.com/sedaming)
-
+🔗 [Linkedin](https://www.linkedin.com/in/sedamin/?skipRedirect=true)
 ---
 
 *This project is part of my data analyst portfolio. More Excel projects coming soon.*
