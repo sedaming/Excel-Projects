@@ -37,7 +37,7 @@ The final output is an **interactive Excel dashboard** featuring KPI cards, dyna
 
 ## 📈 Dashboard Preview
 
-> 📎 *Dashboard screenshot coming soon — see the Excel file below for the full interactive version.*
+> 📎 *Dashboard screenshot coming soon — see the Excel file in this repo for the full interactive version.*
 
 ---
 
@@ -57,10 +57,9 @@ The final output is an **interactive Excel dashboard** featuring KPI cards, dyna
 Excel-Projects/
 │
 ├── Retail-Sales-Analysis/
-│   ├── Excel Project Dataset (version 2).xlsx   ← Main workbook (raw data + dashboard)
-│   └── README.md
+│   └── Excel Project Dataset (version 2).xlsx   ← Main workbook (raw data + dashboard)
 │
-└── README.md   ← You are here
+└── README.md
 ```
 
 ---
@@ -76,11 +75,11 @@ Excel-Projects/
 
 ## 👤 About
 
-**Amin Sedaqat**
+**Amin Amirkhalili**
 Aspiring Business & Data Analyst | Excel · SQL · Power BI · Python
 📍 St. John's / Toronto, Canada
-🔗 [GitHub](https://github.com/sedaming) | [LinkedIn](https://www.linkedin.com/in/sedaqat)
+🔗 [GitHub](https://github.com/sedaming)
 
 ---
 
-*This project is part of my data analyst portfolio. More projects coming soon.*
+*This project is part of my data analyst portfolio. More Excel projects coming soon.*
