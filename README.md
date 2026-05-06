@@ -1,3 +1,4 @@
+<img width="862" height="696" alt="Amin dash" src="https://github.com/user-attachments/assets/551c1646-c114-4a83-bd83-cbdc0029525a" />
 # 📊 Retail Sales Analysis Dashboard — Excel Project
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
